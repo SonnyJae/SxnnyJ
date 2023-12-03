@@ -1,5 +1,5 @@
 👋 Hi there! 
-My korea name is Son Hwi Jae, english name jay.😄
+My name is Son Hwi Jae(Jay).😄
 I'm backend developer using Spring Framework, Spring Boot.🌱
 
 My goal is to become a constantly developing developer.⚡
