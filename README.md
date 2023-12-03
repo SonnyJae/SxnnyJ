@@ -1,5 +1,5 @@
-## Son Hwi Jae(Jay)
-
+### About Me
+<hr>
 👋 Hi there!<br/> <br/>
 I hope to be a backend developer. 🌱<br/><br/>
 My goal is to become a constantly developing developer.⚡<br/><br/>
@@ -50,7 +50,7 @@ My goal is to become a constantly developing developer.⚡<br/><br/>
    <img src="https://img.shields.io/badge/eclipse-782A90?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
 
-<hr>
+
 
 
 
