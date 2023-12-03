@@ -1,7 +1,7 @@
 ## Son Hwi Jae(Jay)
 
 👋 Hi there!<br/> <br/>
-i hope to be a backend developer. 🌱<br/><br/>
+I hope to be a backend developer. 🌱<br/><br/>
 My goal is to become a constantly developing developer.⚡<br/><br/>
 
 ### 📚My stack
