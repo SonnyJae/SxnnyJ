@@ -4,7 +4,8 @@
 i hope to be a backend developer. 🌱<br/><br/>
 My goal is to become a constantly developing developer.⚡<br/><br/>
 
-#### 📚My stack
+### 📚My stack
+<hr>
 
 
 
